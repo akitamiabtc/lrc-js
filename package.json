@@ -1,0 +1,17 @@
+{
+  "name": "lrc-20-js",
+  "version": "0.1.0-alpha",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5",
+    "class-transformer": "^0.5.1",
+    "ecpair": "^2.1.0",
+    "reflect-metadata": "^0.2.2",
+    "tiny-secp256k1": "^2.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "eslint": "^9.2.0"
+  }
+}
